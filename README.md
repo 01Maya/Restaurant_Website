@@ -23,8 +23,9 @@ This website showcases a vibrant and intuitive layout designed to highlight your
  
 ## Screenshots
 
-![screenshot(1)](https://github.com/user-attachments/assets/04c607da-c7a9-419e-b98d-1e3ac8111dc9)
-![screenshot(2)](https://github.com/user-attachments/assets/d9a0d475-a6be-4dfd-8d21-cb90a5b1fe18)
+![screenshot(2)](https://github.com/user-attachments/assets/a6d94091-0160-4527-b6cd-c9d3c0e4aae3)
+![screenshot(1)](https://github.com/user-attachments/assets/d0ebde5c-85b9-4815-9d73-cb332923c1b5)
+
 
 
 
